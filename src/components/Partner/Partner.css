@@ -1,0 +1,10 @@
+.img-div{
+    width: 200px;
+    height: 200px;
+}
+.img{
+    height: 240px;
+    width: 240px;
+    padding: 5px;
+    opacity: 1 !important;
+}

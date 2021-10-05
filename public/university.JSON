@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": " Computer Science and Engineering",
+      "teacher": "Richad Van",
+      "img": "http://www.iebbd.org/upload/journal/20191023_1240997098_1198322822_cover_page.JPEG",
+      "category": "Engineering",
+      "description": "Using personal computers as effective problem solving tools for the present and the future. Theory behind solving problems using common application software including word processing, spreadsheets, database management, and electronic communications.",
+      "price":299
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Electronics Engineering",
+      "teacher": "Elger Norich",
+      "img": "https://static.javatpoint.com/fullformpages/images/eee.png",
+      "category": "Engineering",
+      "description": "EEE stands for Electrical and Electronics Engineering. It is one of the popular disciplines in the field of engineering. It is a 4-year undergraduate degree course that comprises electrical engineering and electronics engineering. So, it mainly deals with the needs, problems, and opportunities in electrical, electronics, telecommunications systems, and related industries.",
+      "price": 240
+    },
+    {
+      "id": 3,
+      "title": "Automata",
+      "teacher": "Peter R.J. Asveld",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41f1DV5RBXL._SX379_BO1,204,203,200_.jpg",
+      "category": "Engineering",
+      "description": "Automata Theory is an exciting, theoretical branch of computer science. ... Automatons are abstract models of machines that perform computations on an input by moving through a series of states or configurations.",
+      "price": 249
+    },
+    {
+      "id": 4,
+      "title": "Accounting All-in-One For Dummies",
+      "teacher": "Wrren Buffett",
+      "img": "https://blogassets.fintrakk.com/uploads/2017/07/Best-Accounting-Books-1.png",
+      "category": "Marketing",
+      "description": "In accounting, the word “books” refers a company's record of financial transactions. The term “closing the books” refers to an accounting procedure that happens at the end of each month or designated company period, and at the end of each year.",
+      "price": 150
+    },
+    {
+      "id": 5,
+      "title": "The Origin of Species",
+      "teacher": "Charles Darwin",
+      "img": "https://assets.cambridge.org/97811080/05487/cover/9781108005487.jpg",
+      "category": "Medical Science",
+      "description": "On the Origin of Species by Means of Natural Selection, a groundbreaking scientific work by British naturalist Charles Darwin, is published in England.",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "title": " Think and Grow Rich",
+      "teacher": "Napoleon Hill",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51bhhK6yobL._SX331_BO1,204,203,200_.jpg",
+      "category": "Granddaddy of All Motivational Literature",
+      "description": "In the original Think and Grow Rich, published in 1937, Hill draws on stories of Andrew Carnegie, Thomas Edison, Henry Ford, and other millionaires of his generation to illustrate his principles. In the updated version, Arthur R. Pell, Ph.D., a nationally known author, lecturer, and consultant in human resources management and an expert in applying Hill's thought, deftly interweaves anecdotes of how contemporary millionaires and billionaires, such as Bill Gates, Mary Kay Ash, Dave Thomas, and Sir John Templeton, achieved their wealth. Outmoded or arcane terminology and examples are faithfully refreshed to preclude any stumbling blocks to a new generation of readers.",
+      "price": 200
+    },
+    {
+      "id": 7,
+      "title": "Letters to a Law Student",
+      "teacher": "Nicholas McBride",
+      "img": "https://kbimages1-a.akamaihd.net/a45a952e-1e5d-4110-a498-8be6c3e2667c/1200/1200/False/letters-to-a-law-student-epub.jpg",
+      "category": "Law",
+      "description": "A guide to studying law at university, this text will help those who are thinking about studying law at university decide whether doing a law degree is the right option for them. It offers helpful advice on various aspects of the study of law, including how to choose where to study.",
+      "price": 500
+    },
+    {
+      "id": 8,
+      "title": "Pattern Recognition",
+      "teacher": "ML Bulacu",
+      "img": "https://m.media-amazon.com/images/I/51hapApBx8L.jpg",
+      "category": "Artificial Intelligence",
+      "description": "This practical handbook provides a broad overview of the major elements of pattern recognition and image processing. Currently the only handbook in the field, it is designed as a source  for those interested in the theoretical development and practical applications of PRIP techniques.",
+      "price": 150
+    },
+    {
+      "id": 9,
+      "title": "White Fragility",
+      "teacher": "Robin Diangelo",
+      "img": "https://www.google.com/search?rlz=1C1ONGR_enBD952BD952&sxsrf=AOaemvJaDj400xBTJJInZnfI8FBrxUWdcQ:1633351767414&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj00o6_5bDzAhVbeH0KHUcEBZAQ_AUoAXoECAEQAw&q=White%20Fragility&biw=1280&bih=648&dpr=1.5",
+      "category": "Social Science",
+      "description": " Prelude to a Philosophy of the Future is a book by philosopher Friedrich Nietzsche that covers ideas in his previous work Thus Spoke Zarathustra but with a more polemical approach",
+      "price": 100
+    },
+    {
+      "id": 10,
+      "title": "Conversation in intermediate English",
+      "teacher": "Olly Richard",
+      "img": "https://m.media-amazon.com/images/I/51XZTr+ykvL.jpg",
+      "category": "Illusions",
+      "description": "Knowing how to read and write is a very important factor in most people’s lives. But some people never learn these skills. How can we make sure that everybody gets the opportunity to become literate.",
+      "price": 300
+    },
+    {
+      "id": 11,
+      "title": "Interior Design",
+      "teacher": "Paul Walker",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81ARuUPZ-NL.jpg",
+      "category": "Novel",
+      "description": "J. James R. Technically, at least in the US An upper-level manager, a partner or a principal generally make more than about 95-98% of the U.S. It's also sort of the same way how people believe those working in the tech industry or engineering believe them to be well off.",
+      "price": 350
+    },
+    {
+      "id": 12,
+      "title": "Hand book of Mechanical Engineering",
+      "teacher": "Dr Sadu Sing",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51AtKRBgqyL.jpg",
+      "category": "Novel",
+      "description": "Mechanical Engineering is one of the broadest and probably the most complicated branches of engineering Mechanical Engineering deals with a lot of concepts and complex mathematics required to solve immediate real-life problems. This means that you must have these difficult equations and knowledge sets memorized.",
+      "price": 300
+    }
+
+  ]

@@ -1,0 +1,28 @@
+.hero-container {
+  background-image: url("../../images/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0 0;
+  /* opacity: .7; */
+}
+
+.main-title {
+  justify-content: center;
+  font-size: 70px;
+  margin-bottom: 30px;
+  color: white;
+}
+.secondary-title {
+  justify-content: center;
+  font-size: 30px;
+  font-weight: normal;
+  margin-bottom: 30px;
+  color:whitesmoke;
+  font-weight:bolder;
+}
+.primary-button {
+  font-size: 21px;
+}
+.img-div img{
+  opacity: 0.1;
+}

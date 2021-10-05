@@ -1,0 +1,15 @@
+.partner{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.button{
+    border: 1px solid gray;
+    border-radius: 5px;
+     font-size: 21px;
+      
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
